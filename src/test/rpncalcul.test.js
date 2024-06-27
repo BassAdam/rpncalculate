@@ -1,6 +1,6 @@
 
 
-import { RPNCal } from "../main/rpn-calculator";
+import { RPNCal } from "../main/rpncalcul";
 
 describe("RPN Calculator", () => {
   test("evaluates '20 5 /' to 4", () => {
